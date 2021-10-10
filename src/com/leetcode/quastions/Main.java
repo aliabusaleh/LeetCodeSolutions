@@ -1,0 +1,14 @@
+package com.leetcode.quastions;
+
+import java.util.HashMap;
+
+public class Main {
+
+
+
+
+
+    public static void main(String[] args) {
+	// write your code here
+    }
+}
